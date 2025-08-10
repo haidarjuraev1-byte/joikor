@@ -1,0 +1,308 @@
+{
+  "common": {
+    "loading": "Бор шуда истодааст...",
+    "error": "Хато",
+    "success": "Муваффақият",
+    "save": "Захира кардан",
+    "cancel": "Бекор кардан",
+    "delete": "Нест кардан",
+    "edit": "Таҳрир кардан",
+    "view": "Дидан",
+    "search": "Ҷустуҷӯ",
+    "filter": "Филтр",
+    "clear": "Тоза кардан",
+    "apply": "Татбиқ кардан",
+    "reset": "Аз нав танзим кардан",
+    "next": "Навбатӣ",
+    "previous": "Қаблӣ",
+    "page": "Саҳифа",
+    "of": "аз",
+    "results": "натиҷаҳо",
+    "noResults": "Натиҷаҳо ёфт нашуданд",
+    "tryAgain": "Аз нав кӯшиш кунед",
+    "back": "Бозгашт",
+    "close": "Пӯшидан",
+    "open": "Кушодан",
+    "more": "Бештар",
+    "less": "Камтар",
+    "all": "Ҳама",
+    "none": "Ҳеҷ",
+    "yes": "Ҳа",
+    "no": "Не",
+    "required": "Ҳатмӣ",
+    "optional": "Ихтиёрӣ",
+    "email": "Почтаи электронӣ",
+    "password": "Рамз",
+    "name": "Ном",
+    "phone": "Телефон",
+    "address": "Нишонӣ",
+    "city": "Шаҳр",
+    "country": "Кишвар",
+    "website": "Вебсайт",
+    "company": "Ширкат",
+    "position": "Вазифа",
+    "salary": "Маош",
+    "experience": "Таҷриба",
+    "education": "Таҳсилот",
+    "skills": "Малакаҳо",
+    "languages": "Забонҳо",
+    "description": "Тавсиф",
+    "requirements": "Талабот",
+    "benefits": "Бартариҳо",
+    "location": "Ҷойгиршавӣ",
+    "remote": "Дур",
+    "onSite": "Дар офис",
+    "hybrid": "Омехта",
+    "fullTime": "Тамоми вақт",
+    "partTime": "Қисми вақт",
+    "contract": "Шартнома",
+    "internship": "Амалия",
+    "freelance": "Озод",
+    "currency": {
+      "tjs": "сомонӣ",
+      "usd": "доллари ИМА",
+      "eur": "евро",
+      "rub": "рубл"
+    },
+    "period": {
+      "hour": "соат",
+      "day": "рӯз",
+      "week": "ҳафта",
+      "month": "моҳ",
+      "year": "сол"
+    },
+    "services": "Хидматҳо",
+    "login": "Воридшавӣ",
+    "register": "Бақайдгирӣ",
+    "dashboard": "Панели идора",
+    "profile": "Профил",
+    "settings": "Танзимот",
+    "logout": "Баромадан",
+    "contact": "Тамос гирифтан",
+    "menu": "Меню"
+  },
+  "navigation": {
+    "home": "Асосӣ",
+    "jobs": "Ҷойҳои корӣ",
+    "candidates": "Номзадҳо",
+    "companies": "Ширкатҳо",
+    "blog": "Блог",
+    "pricing": "Нархҳо",
+    "about": "Дар бораи мо",
+    "contact": "Тамос",
+    "help": "Кӯмак",
+    "login": "Ворид шудан",
+    "register": "Бақайдгирӣ",
+    "logout": "Баромадан",
+    "profile": "Профил",
+    "dashboard": "Лавҳаи идора",
+    "settings": "Танзимот",
+    "search": {
+      "title": "Ҷустуҷӯ",
+      "findJobs": "Ҷустуҷӯи кор",
+      "findJobsSubtext": "Ҷустуҷӯи ҷойҳои корӣ дар тамоми Тоҷикистон",
+      "findCandidates": "Ҷустуҷӯи номзадҳо",
+      "findCandidatesSubtext": "Ҷустуҷӯи резюме ва истеъдодҳо"
+    },
+    "services": {
+      "title": "Хидматрасониҳо",
+      "createResume": "Сохтани тарҷумаи ҳол",
+      "createResumeSubtext": "Созандаи бо ёрии AI",
+      "postJob": "Ҷойгир кардани ҷои кор",
+      "postJobSubtext": "Номзади идеалӣ ёбед",
+      "careerOrientation": "Роҳнамоии касбӣ",
+      "careerOrientationSubtext": "Санҷишҳо ва маслиҳатҳо барои интихоби касб"
+    },
+    "findJob": "Ҷустуҷӯи кор",
+    "findJobDesc": "Ҷустуҷӯи ҷойҳои корӣ дар тамоми Тоҷикистон",
+    "findCandidates": "Ҷустуҷӯи номзадҳо",
+    "findCandidatesDesc": "Ҷустуҷӯи резюме ва истеъдодҳо",
+    "createResume": "Сохтани тарҷумаи ҳол",
+    "createResumeDesc": "Созандаи бо ёрии AI",
+    "postJob": "Ҷойгир кардани ҷои кор",
+    "postJobDesc": "Номзади идеалӣ ёбед",
+    "careerOrientation": "Роҳнамоии касбӣ",
+    "careerOrientationDesc": "Санҷишҳо ва маслиҳатҳо барои интихоби касб"
+  },
+  "hero": {
+    "title": "Кори мувофиқро дар Тоҷикистон пайдо кунед",
+    "subtitle": "Ҳазорҳо ҷойҳои кории аз корфармоёни беҳтарини кишвар шуморо интизоранд",
+    "searchPlaceholder": "Ҷустуҷӯи ҷойҳои корӣ, ширкатҳо ё калимаҳои калидӣ",
+    "locationPlaceholder": "Шаҳр ё минтақа",
+    "searchButton": "Кор ёфтан",
+    "createResume": "Сохтани тарҷумаи ҳол",
+    "postJob": "Ҷойгир кардани ҷои кор",
+    "stats": {
+      "jobs": "ҷойҳои кории фаъол",
+      "companies": "ширкатҳо",
+      "candidates": "номзадҳо",
+      "success": "ҷойгиршавии муваффақ"
+    }
+  },
+  "categories": {
+    "title": "Категорияҳои маъмул",
+    "subtitle": "Дар соҳаи дилхоҳатон кор ёбед",
+    "viewAll": "Дидани ҳама",
+    "jobsCount": "ҷойҳои корӣ"
+  },
+  "jobs": {
+    "title": "Ҷустуҷӯи кор",
+    "subtitle": "{count} ҷойи корӣ дар Тоҷикистон ёфт шуд",
+    "searchPlaceholder": "Вазифа, ширкат ё малакаҳо",
+    "filters": {
+      "title": "Филтрҳо",
+      "category": "Категория",
+      "allCategories": "Ҳамаи категорияҳо",
+      "employmentType": "Навъи ишғол",
+      "allTypes": "Ҳамаи навъҳо",
+      "experience": "Таҷрибаи корӣ",
+      "anyExperience": "Ҳар гуна таҷриба",
+      "salaryRange": "Маош (сомонӣ)",
+      "additional": "Иловагӣ",
+      "remoteWork": "Кори дур",
+      "featured": "Тавсияшуда",
+      "urgent": "Фаврӣ"
+    },
+    "sort": {
+      "newest": "Аввал навтарин",
+      "oldest": "Аввал кӯҳнатарин",
+      "salaryHigh": "Маош ↓",
+      "salaryLow": "Маош ↑",
+      "relevance": "Аз рӯи мувофиқат"
+    },
+    "card": {
+      "featured": "Тавсияшуда",
+      "urgent": "Фаврӣ",
+      "remote": "Дур",
+      "deadline": "То",
+      "views": "дидаҳо",
+      "applications": "дархостҳо",
+      "saves": "захираҳо",
+      "details": "Тафсилот",
+      "apply": "Дархост додан",
+      "save": "Захира кардан",
+      "share": "Мубодила кардан",
+      "posted": "Нашр шуд",
+      "ago": "пеш",
+      "justNow": "ҳозир",
+      "minutesAgo": "{count} дақ пеш",
+      "hoursAgo": "{count} соат пеш",
+      "daysAgo": "{count} рӯз пеш"
+    },
+    "noResults": {
+      "title": "Ҷойҳои корӣ ёфт нашуданд",
+      "description": "Параметрҳои ҷустуҷӯро тағйир диҳед ё филтрҳоро тоза кунед",
+      "clearFilters": "Ҳамаи филтрҳоро тоза кунед",
+      "viewAll": "Ҳамаи ҷойҳои кориро дидан"
+    },
+    "pagination": {
+      "showing": "{current} аз {total} ҷойи корӣ нишон дода шуд",
+      "page": "Саҳифаи {current} аз {total}"
+    },
+    "hot": "Ҷойҳои кории гарм",
+    "nearby": "Ҷойҳои корӣ дар наздикӣ",
+    "salary": "Маош",
+    "company": "Ширкат",
+    "location": "Ҷойгиршавӣ",
+    "type": "Навъи кор",
+    "experience": "Таҷриба",
+    "posted": "Нашр шудааст",
+    "deadline": "Мӯҳлати дархост",
+    "requirements": "Талабот",
+    "responsibilities": "Масъулиятҳо",
+    "benefits": "Бартариҳо"
+  },
+  "candidates": {
+    "title": "Ҷустуҷӯи номзадҳо",
+    "subtitle": "{count} номзад дар Тоҷикистон ёфт шуд",
+    "searchPlaceholder": "Ном, вазифа ё малакаҳо",
+    "filters": {
+      "skills": "Малакаҳо",
+      "allSkills": "Ҳамаи малакаҳо",
+      "education": "Таҳсилот",
+      "anyEducation": "Ҳар гуна таҳсилот",
+      "expectedSalary": "Маоши интизорӣ (сомонӣ)",
+      "available": "Барои кор дастрас",
+      "verified": "Тасдиқшуда",
+      "premium": "Профилҳои премиум"
+    },
+    "card": {
+      "verified": "Тасдиқшуда",
+      "online": "Онлайн",
+      "offline": "Офлайн",
+      "available": "Дастрас",
+      "busy": "Банд",
+      "expectedSalary": "Маоши интизорӣ",
+      "responseRate": "ҷавобҳо",
+      "contact": "Тамос гирифтан",
+      "viewResume": "Резюме",
+      "yearsExperience": "сол"
+    }
+  },
+  "hotJobs": {
+    "title": "Ҷойҳои кории тоза",
+    "viewAll": "Дидани ҳамаи ҷойҳои корӣ"
+  },
+  "nearbyJobs": {
+    "title": "Ҷойҳои кории наздик ба шумо",
+    "viewAll": "Дидани ҳама"
+  },
+  "footer": {
+    "description": "Joikor - платформаи пешқадами ҷустуҷӯи кор дар Тоҷикистон",
+    "contact": {
+      "email": "info@joikor.tj",
+      "phone": "+992 37 123-45-67",
+      "address": "Душанбе, Тоҷикистон"
+    },
+    "jobSeekers": {
+      "title": "Ба ҷӯёндагони кор",
+      "findJobs": "Ҷустуҷӯи кор",
+      "createResume": "Резюме эҷод кардан",
+      "careerOrientation": "Ҷиҳатгирии касбӣ",
+      "careerBlog": "Блоги касбӣ",
+      "salaryGuide": "Роҳнамои маошҳо"
+    },
+    "employers": {
+      "title": "Ба корфармоён",
+      "postJob": "Ҷойи корӣ ҷойгир кардан",
+      "findCandidates": "Ҷустуҷӯи номзадҳо",
+      "pricing": "Нархгузорӣ",
+      "hrResources": "Захираҳои HR",
+      "hiringAnalytics": "Таҳлили ҷойгиршавӣ"
+    },
+    "company": {
+      "title": "Ширкат",
+      "about": "Дар бораи мо",
+      "contact": "Тамос",
+      "privacy": "Сиёсати махфият",
+      "terms": "Шартҳои истифода",
+      "help": "Кӯмак"
+    },
+    "social": {
+      "telegram": "Телеграм",
+      "facebook": "Фейсбук",
+      "instagram": "Инстаграм"
+    },
+    "copyright": "© 2023 Joikor. Ҳамаи ҳуқуқҳо ҳифз шудаанд.",
+    "quickLinks": "Пайвандҳои зуд",
+    "forJobSeekers": "Барои ҷӯёндагони кор",
+    "forEmployers": "Барои корфармоён",
+    "support": "Дастгирӣ",
+    "followUs": "Мо пайравӣ кунед",
+    "allRightsReserved": "Ҳамаи ҳуқуқҳо ҳифз шудаанд"
+  },
+  "seo": {
+    "home": {
+      "title": "Joikor - Платформаи ҷустуҷӯи кор дар Тоҷикистон",
+      "description": "Ҷойи кори орзуӣ ё номзади беҳтаринро дар Тоҷикистон ёбед. Платформаи пешбари ҷустуҷӯи кор бо ҳазорҳо ҷойи корӣ ва резюме."
+    },
+    "jobs": {
+      "title": "Ҷустуҷӯи кор дар Тоҷикистон - Joikor",
+      "description": "Дар Тоҷикистон ҷойи кор ёбед. Ҳазорҳо ҷойи кории муосир аз ширкатҳои пешбар. Ҷустуҷӯ ва филтрҳои қулай."
+    },
+    "candidates": {
+      "title": "Ҷустуҷӯи номзадҳо дар Тоҷикистон - Joikor",
+      "description": "Номзади беҳтаринро барои ширкататон ёбед. Пойгоҳи резюмеи мутахассисони Тоҷикистон."
+    }
+  }
+}

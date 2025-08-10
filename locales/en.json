@@ -1,0 +1,319 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "apply": "Apply",
+    "reset": "Reset",
+    "next": "Next",
+    "previous": "Previous",
+    "page": "Page",
+    "of": "of",
+    "results": "results",
+    "noResults": "No results found",
+    "tryAgain": "Try again",
+    "back": "Back",
+    "close": "Close",
+    "open": "Open",
+    "more": "More",
+    "less": "Less",
+    "all": "All",
+    "none": "None",
+    "yes": "Yes",
+    "no": "No",
+    "required": "Required",
+    "optional": "Optional",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "website": "Website",
+    "company": "Company",
+    "position": "Position",
+    "salary": "Salary",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "languages": "Languages",
+    "description": "Description",
+    "requirements": "Requirements",
+    "benefits": "Benefits",
+    "location": "Location",
+    "remote": "Remote",
+    "onSite": "On-site",
+    "hybrid": "Hybrid",
+    "fullTime": "Full-time",
+    "partTime": "Part-time",
+    "contract": "Contract",
+    "internship": "Internship",
+    "freelance": "Freelance",
+    "currency": {
+      "tjs": "TJS",
+      "usd": "USD",
+      "eur": "EUR",
+      "rub": "RUB"
+    },
+    "period": {
+      "hour": "hour",
+      "day": "day",
+      "week": "week",
+      "month": "month",
+      "year": "year"
+    },
+    "services": "Services",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "contact": "Contact",
+    "menu": "Menu"
+  },
+  "navigation": {
+    "home": "Home",
+    "jobs": "Jobs",
+    "candidates": "Candidates",
+    "companies": "Companies",
+    "blog": "Blog",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "help": "Help",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "search": {
+      "title": "Search",
+      "findJobs": "Find Jobs",
+      "findJobsSubtext": "Search for jobs across Tajikistan",
+      "findCandidates": "Find Candidates",
+      "findCandidatesSubtext": "Search resumes and talents"
+    },
+    "services": {
+      "title": "Services",
+      "createResume": "Create Resume",
+      "createResumeSubtext": "Builder with AI assistant",
+      "postJob": "Post a Job",
+      "postJobSubtext": "Find the perfect candidate",
+      "careerOrientation": "Career Guidance",
+      "careerOrientationSubtext": "Tests and career advice"
+    },
+    "findJob": "Find Job",
+    "findJobDesc": "Search jobs across Tajikistan",
+    "findCandidates": "Find Candidates",
+    "findCandidatesDesc": "Search resumes and talents",
+    "createResume": "Create Resume",
+    "createResumeDesc": "Builder with AI assistant",
+    "postJob": "Post Job",
+    "postJobDesc": "Find the perfect candidate",
+    "careerOrientation": "Career Guidance",
+    "careerOrientationDesc": "Tests and career choice advice"
+  },
+  "hero": {
+    "title": "Find Your Perfect Job in Tajikistan",
+    "subtitle": "Thousands of job opportunities from the country's best employers await you",
+    "searchPlaceholder": "Search jobs, companies, or keywords",
+    "locationPlaceholder": "City or region",
+    "searchButton": "Search",
+    "createResume": "Create Resume",
+    "postJob": "Post Job",
+    "stats": {
+      "jobs": "active jobs",
+      "companies": "companies",
+      "candidates": "candidates",
+      "success": "successful placements"
+    }
+  },
+  "categories": {
+    "title": "Popular Categories",
+    "subtitle": "Find work in your field of interest",
+    "viewAll": "View All",
+    "jobsCount": "jobs"
+  },
+  "jobs": {
+    "title": "Job Search",
+    "subtitle": "Found {count} jobs in Tajikistan",
+    "searchPlaceholder": "Job title, company, or skills",
+    "filters": {
+      "title": "Filters",
+      "category": "Category",
+      "allCategories": "All Categories",
+      "employmentType": "Employment Type",
+      "allTypes": "All Types",
+      "experience": "Experience Level",
+      "anyExperience": "Any Experience",
+      "salaryRange": "Salary Range (TJS)",
+      "additional": "Additional",
+      "remoteWork": "Remote Work",
+      "featured": "Featured",
+      "urgent": "Urgent"
+    },
+    "sort": {
+      "newest": "Newest First",
+      "oldest": "Oldest First",
+      "salaryHigh": "Salary ↓",
+      "salaryLow": "Salary ↑",
+      "relevance": "Relevance"
+    },
+    "card": {
+      "featured": "Featured",
+      "urgent": "Urgent",
+      "remote": "Remote",
+      "deadline": "Until",
+      "views": "views",
+      "applications": "applications",
+      "saves": "saves",
+      "details": "Details",
+      "apply": "Apply",
+      "save": "Save",
+      "share": "Share",
+      "posted": "Posted",
+      "ago": "ago",
+      "justNow": "just now",
+      "minutesAgo": "{count} min ago",
+      "hoursAgo": "{count} h ago",
+      "daysAgo": "{count} d ago"
+    },
+    "noResults": {
+      "title": "No Jobs Found",
+      "description": "Try adjusting your search parameters or clear filters",
+      "clearFilters": "Clear All Filters",
+      "viewAll": "View All Jobs"
+    },
+    "pagination": {
+      "showing": "Showing {current} of {total} jobs",
+      "page": "Page {current} of {total}"
+    },
+    "hot": "Hot Jobs",
+    "nearby": "Jobs Near You",
+    "salary": "Salary",
+    "company": "Company",
+    "location": "Location",
+    "type": "Job Type",
+    "experience": "Experience",
+    "posted": "Posted",
+    "deadline": "Application Deadline",
+    "requirements": "Requirements",
+    "responsibilities": "Responsibilities",
+    "benefits": "Benefits"
+  },
+  "candidates": {
+    "title": "Candidate Search",
+    "subtitle": "Found {count} candidates in Tajikistan",
+    "searchPlaceholder": "Name, position, or skills",
+    "filters": {
+      "skills": "Skills",
+      "allSkills": "All Skills",
+      "education": "Education",
+      "anyEducation": "Any Education",
+      "expectedSalary": "Expected Salary (TJS)",
+      "available": "Available for Work",
+      "verified": "Verified",
+      "premium": "Premium Profiles"
+    },
+    "card": {
+      "verified": "Verified",
+      "online": "Online",
+      "offline": "Offline",
+      "available": "Available",
+      "busy": "Busy",
+      "expectedSalary": "Expected Salary",
+      "responseRate": "responses",
+      "contact": "Contact",
+      "viewResume": "Resume",
+      "yearsExperience": "years"
+    }
+  },
+  "footer": {
+    "description": "Joikor - the leading job search platform in Tajikistan",
+    "contact": {
+      "email": "info@joikor.tj",
+      "phone": "+992 37 123-45-67",
+      "address": "Dushanbe, Tajikistan"
+    },
+    "jobSeekers": {
+      "title": "For Job Seekers",
+      "findJobs": "Find Jobs",
+      "createResume": "Create Resume",
+      "careerOrientation": "Career Guidance",
+      "careerBlog": "Career Blog",
+      "salaryGuide": "Salary Guide"
+    },
+    "employers": {
+      "title": "For Employers",
+      "postJob": "Post a Job",
+      "findCandidates": "Find Candidates",
+      "pricing": "Pricing",
+      "hrResources": "HR Resources",
+      "hiringAnalytics": "Hiring Analytics"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "help": "Help"
+    },
+    "social": {
+      "telegram": "Telegram",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "copyright": "© 2023 Joikor. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "forJobSeekers": "For Job Seekers",
+    "forEmployers": "For Employers",
+    "support": "Support",
+    "followUs": "Follow Us",
+    "allRightsReserved": "All rights reserved"
+  },
+  "seo": {
+    "home": {
+      "title": "Joikor - Job Search Platform in Tajikistan",
+      "description": "Find your dream job or perfect candidate in Tajikistan. Leading job search platform with thousands of jobs and resumes."
+    },
+    "jobs": {
+      "title": "Job Search in Tajikistan - Joikor",
+      "description": "Find jobs in Tajikistan. Thousands of current vacancies from leading companies. Convenient search and filters."
+    },
+    "candidates": {
+      "title": "Candidate Search in Tajikistan - Joikor",
+      "description": "Find the perfect candidate for your company. Database of resumes from specialists in Tajikistan."
+    }
+  },
+  "nav": {
+    "search": "Search",
+    "findJobs": "Find Jobs",
+    "findCandidates": "Find Candidates",
+    "services": "Services",
+    "createResume": "Create Resume",
+    "postJob": "Post a Job",
+    "careerOrientation": "Career Orientation",
+    "blog": "Blog",
+    "pricing": "Pricing"
+  },
+  "hotJobs": {
+    "title": "Hot Jobs",
+    "viewAll": "View All Jobs"
+  },
+  "nearbyJobs": {
+    "title": "Jobs Near You",
+    "viewAll": "View All"
+  }
+}

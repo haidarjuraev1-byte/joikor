@@ -1,0 +1,290 @@
+{
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "view": "Просмотр",
+    "search": "Поиск",
+    "filter": "Фильтр",
+    "clear": "Очистить",
+    "apply": "Подать заявку",
+    "reset": "Сбросить",
+    "next": "Следующая",
+    "previous": "Предыдущая",
+    "page": "Страница",
+    "of": "из",
+    "results": "результатов",
+    "noResults": "Результаты не найдены",
+    "tryAgain": "Попробовать снова",
+    "back": "Назад",
+    "close": "Закрыть",
+    "open": "Открыть",
+    "more": "Больше",
+    "less": "Меньше",
+    "all": "Все",
+    "none": "Нет",
+    "yes": "Да",
+    "no": "Нет",
+    "required": "Обязательно",
+    "optional": "Необязательно",
+    "email": "Email",
+    "password": "Пароль",
+    "name": "Имя",
+    "phone": "Телефон",
+    "address": "Адрес",
+    "city": "Город",
+    "country": "Страна",
+    "website": "Веб-сайт",
+    "company": "Компания",
+    "position": "Должность",
+    "salary": "Зарплата",
+    "experience": "Опыт",
+    "education": "Образование",
+    "skills": "Навыки",
+    "languages": "Языки",
+    "description": "Описание",
+    "requirements": "Требования",
+    "benefits": "Преимущества",
+    "location": "Местоположение",
+    "remote": "Удаленно",
+    "onSite": "В офисе",
+    "hybrid": "Гибридно",
+    "fullTime": "Полная занятость",
+    "partTime": "Частичная занятость",
+    "contract": "Контракт",
+    "internship": "Стажировка",
+    "freelance": "Фриланс",
+    "currency": {
+      "tjs": "сомони",
+      "usd": "долларов США",
+      "eur": "евро",
+      "rub": "рублей"
+    },
+    "period": {
+      "hour": "час",
+      "day": "день",
+      "week": "неделя",
+      "month": "месяц",
+      "year": "год"
+    },
+    "services": "Сервисы",
+    "blog": "Блог",
+    "pricing": "Тарифы",
+    "login": "Войти",
+    "register": "Регистрация",
+    "dashboard": "Панель управления",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "logout": "Выйти",
+    "contact": "Связаться",
+    "menu": "Меню"
+  },
+  "navigation": {
+    "home": "Главная",
+    "jobs": "Вакансии",
+    "candidates": "Кандидаты",
+    "companies": "Компании",
+    "blog": "Блог",
+    "pricing": "Тарифы",
+    "about": "О нас",
+    "contact": "Контакты",
+    "help": "Помощь",
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "profile": "Профиль",
+    "dashboard": "Панель управления",
+    "settings": "Настройки",
+    "findJob": "Найти работу",
+    "findJobDesc": "Поиск вакансий по всему Таджикистану",
+    "findCandidates": "Найти кандидатов",
+    "findCandidatesDesc": "Поиск резюме и талантов",
+    "createResume": "Создать резюме",
+    "createResumeDesc": "Конструктор с AI-помощником",
+    "postJob": "Разместить вакансию",
+    "postJobDesc": "Найдите идеального кандидата",
+    "careerOrientation": "Профориентация",
+    "careerOrientationDesc": "Тесты и советы по выбору карьеры"
+  },
+  "hero": {
+    "title": "Найдите идеальную работу в Таджикистане",
+    "subtitle": "Тысячи вакансий от лучших работодателей страны ждут вас",
+    "searchPlaceholder": "Поиск вакансий, компаний или ключевых слов",
+    "searchButton": "Найти работу",
+    "createResume": "Создать резюме",
+    "postJob": "Разместить вакансию",
+    "stats": {
+      "jobs": "активных вакансий",
+      "companies": "компаний",
+      "candidates": "кандидатов",
+      "success": "успешных трудоустройств"
+    }
+  },
+  "categories": {
+    "title": "Популярные категории",
+    "subtitle": "Найдите работу в интересующей вас сфере",
+    "viewAll": "Смотреть все",
+    "jobsCount": "вакансий"
+  },
+  "jobs": {
+    "title": "Поиск работы",
+    "subtitle": "Найдено {count} вакансий в Таджикистане",
+    "searchPlaceholder": "Должность, компания или навыки",
+    "filters": {
+      "title": "Фильтры",
+      "category": "Категория",
+      "allCategories": "Все категории",
+      "employmentType": "Тип занятости",
+      "allTypes": "Все типы",
+      "experience": "Опыт работы",
+      "anyExperience": "Любой опыт",
+      "salaryRange": "Зарплата (TJS)",
+      "additional": "Дополнительно",
+      "remoteWork": "Удаленная работа",
+      "featured": "Рекомендуемые",
+      "urgent": "Срочные"
+    },
+    "sort": {
+      "newest": "Сначала новые",
+      "oldest": "Сначала старые",
+      "salaryHigh": "Зарплата ↓",
+      "salaryLow": "Зарплата ↑",
+      "relevance": "По релевантности"
+    },
+    "card": {
+      "featured": "Рекомендуемая",
+      "urgent": "Срочно",
+      "remote": "Удаленно",
+      "deadline": "До",
+      "views": "просмотров",
+      "applications": "откликов",
+      "saves": "сохранений",
+      "details": "Подробнее",
+      "apply": "Откликнуться",
+      "save": "Сохранить",
+      "share": "Поделиться",
+      "posted": "Опубликовано",
+      "ago": "назад",
+      "justNow": "только что",
+      "minutesAgo": "{count} мин назад",
+      "hoursAgo": "{count} ч назад",
+      "daysAgo": "{count} дн назад"
+    },
+    "noResults": {
+      "title": "Вакансии не найдены",
+      "description": "Попробуйте изменить параметры поиска или очистить фильтры",
+      "clearFilters": "Очистить все фильтры",
+      "viewAll": "Посмотреть все вакансии"
+    },
+    "pagination": {
+      "showing": "Показано {current} из {total} вакансий",
+      "page": "Страница {current} из {total}"
+    },
+    "hot": "Горячие вакансии",
+    "nearby": "Вакансии рядом с вами",
+    "salary": "Зарплата",
+    "company": "Компания",
+    "location": "Местоположение",
+    "type": "Тип работы",
+    "experience": "Опыт работы",
+    "posted": "Опубликовано",
+    "deadline": "Срок подачи",
+    "requirements": "Требования",
+    "responsibilities": "Обязанности",
+    "benefits": "Преимущества"
+  },
+  "candidates": {
+    "title": "Поиск кандидатов",
+    "subtitle": "Найдено {count} кандидатов в Таджикистане",
+    "searchPlaceholder": "Имя, должность или навыки",
+    "filters": {
+      "skills": "Навыки",
+      "allSkills": "Все навыки",
+      "education": "Образование",
+      "anyEducation": "Любое образование",
+      "expectedSalary": "Ожидаемая зарплата (TJS)",
+      "available": "Доступны для работы",
+      "verified": "Верифицированные",
+      "premium": "Премиум профили"
+    },
+    "card": {
+      "verified": "Верифицирован",
+      "online": "Онлайн",
+      "offline": "Не в сети",
+      "available": "Доступен",
+      "busy": "Занят",
+      "expectedSalary": "Ожидаемая зарплата",
+      "responseRate": "ответов",
+      "contact": "Связаться",
+      "viewResume": "Резюме",
+      "yearsExperience": "лет"
+    }
+  },
+  "footer": {
+    "description": "Joikor - ведущая платформа поиска работы в Таджикистане",
+    "contact": {
+      "email": "info@joikor.tj",
+      "phone": "+992 37 123-45-67",
+      "address": "Душанбе, Таджикистан"
+    },
+    "jobSeekers": {
+      "title": "Соискателям",
+      "findJobs": "Поиск работы",
+      "createResume": "Создать резюме",
+      "careerOrientation": "Профориентация",
+      "careerBlog": "Карьерный блог",
+      "salaryGuide": "Гид по зарплатам"
+    },
+    "employers": {
+      "title": "Работодателям",
+      "postJob": "Разместить вакансию",
+      "findCandidates": "Поиск кандидатов",
+      "pricing": "Тарифы",
+      "hrResources": "Ресурсы HR",
+      "hiringAnalytics": "Аналитика найма"
+    },
+    "company": {
+      "title": "Компания",
+      "about": "О нас",
+      "contact": "Контакты",
+      "privacy": "Политика конфиденциальности",
+      "terms": "Условия использования",
+      "help": "Помощь"
+    },
+    "social": {
+      "telegram": "Telegram",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "quickLinks": "Быстрые ссылки",
+    "forJobSeekers": "Для соискателей",
+    "forEmployers": "Для работодателей",
+    "copyright": "© 2023 Joikor. Все права защищены."
+  },
+  "seo": {
+    "home": {
+      "title": "Joikor - Платформа поиска работы в Таджикистане",
+      "description": "Найдите работу мечты или идеального кандидата в Таджикистане. Ведущая платформа поиска работы с тысячами вакансий и резюме."
+    },
+    "jobs": {
+      "title": "Поиск работы в Таджикистане - Joikor",
+      "description": "Найдите работу в Таджикистане. Тысячи актуальных вакансий от ведущих компаний. Удобный поиск и фильтры."
+    },
+    "candidates": {
+      "title": "Поиск кандидатов в Таджикистане - Joikor",
+      "description": "Найдите идеального кандидата для вашей компании. База резюме специалистов из Таджикистана."
+    }
+  },
+  "hotJobs": {
+    "title": "Горячие вакансии",
+    "viewAll": "Смотреть все вакансии"
+  },
+  "nearbyJobs": {
+    "title": "Вакансии рядом с вами",
+    "viewAll": "Смотреть все"
+  }
+}
